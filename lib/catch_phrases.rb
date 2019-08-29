@@ -5,7 +5,7 @@ def mario
 end
 
 def toadstool
-  mario
+  mario()
   puts status
 end
 
