@@ -14,5 +14,5 @@ def link
 end
 
 def any_phrase(phrase)
-  prints phrase
+  print phrase
 end
